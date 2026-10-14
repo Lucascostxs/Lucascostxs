@@ -15,6 +15,8 @@
 ## Linguagens Estudadas:
 - Python;
 - C++;
+- PHP
+- Html
 
 ---
 
